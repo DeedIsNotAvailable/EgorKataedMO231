@@ -97,7 +97,7 @@ public class Main
         System.out.println(MinPrice);
 
         try {
-            FileWriter myWriter = new FileWriter("output.txt"); //Сюда вставить место куда надо отправить выходной файл
+            FileWriter myWriter = new FileWriter("output.txt"); //Сюда вставить место куда надо отправить выходной файл, с форматом .txt
             myWriter.write(String.valueOf(MinPrice));
             myWriter.close();
         } catch (IOException e) {
