@@ -3,142 +3,25 @@ class HelloWorld
 {
     static void Main()
     {
-        Console.WriteLine("количество элементов в последовательности");
-        int N = Convert.ToInt32(Console.ReadLine());
+        int max = 0;
+        int neg = 0;
+        int summ = 0;
+        int smallest = 0;
 
-        int nBuffer = Convert.ToInt32(Console.ReadLine());
-
-        int counter1 = 0;
-        int counter1Buffer1 = 0;
-        int counter1Buffer2 = 0;
-        int counter1Buffer3 = 0;
-
-        bool statement1 = true;
-
-        int counter2 = 0;
-        int counter2Buffer1 = 0;
-        int counter2Buffer3 = 0;
-
-        bool statement2 = true;
-        
-
-
-        for (int i = 2; i < N+1; i++)
+        for (int i = 0; i < 10; i++)
         {
-            int n = Convert.ToInt32(Console.ReadLine());
-
-
-            // одинаковые элементы
-            if (n == nBuffer)
-            {
-                counter1++;
-            }
-            else
-            {
-                if (counter1Buffer1 == 0)
-                {
-                    counter1Buffer1 = counter1;
-                    counter1Buffer3 = counter1;
-                }
-                else
-                {
-                    if (counter1 < counter1Buffer1)
-                    {
-                        counter1Buffer3 = counter1;
-                        counter1Buffer1 = counter1;
-                    }
-                }
-                counter1 = 0;
-            }
-
-
-            // кратность
-            if(statement1 == true)
-            {
-                if((n % i) != 0)
-                {
-                    statement1 = false;
-                }
-            }
-
-
-            // разные элементы
-            if (n != nBuffer)
-            {
-                counter2++;
-            }
-            else
-            {
-                if (counter2Buffer1 == 0)
-                {
-                    counter2Buffer1 = counter2;
-                    counter2Buffer3 = counter2;
-                }
-                else
-                {
-                    if (counter2 > counter2Buffer1)
-                    {
-                        counter2Buffer3 = counter2;
-                        counter2Buffer1 = counter2;
-                    }
-                }
-                counter2 = 0;
-            }
-
-
-            // убывание
-            if(statement2 == true)
-            {
-                /*if ((n + 1) != nBuffer)
-                {
-                    statement2 = false;
-                }*/
-
-                if (n >= nBuffer)
-                {
-                    statement2 = false;
-                }
-            }
-
-            nBuffer = n;
+            int N = Convert.ToInt32(Console.ReadLine());
+            if (i == 0) { max = N; }
+            if (N > max) { max = N; }
+            if (N < 0) { neg++; }
+            if (N % 3 == 0) { summ += N; }
+            if (N > 0 & smallest == 0) { smallest = N; }
+            if (N > 0 & N < smallest) { smallest = N; }
         }
 
-
-
-
-        if (counter1 < counter1Buffer3 & counter1 != 0)
-        {
-            counter1++;
-            Console.WriteLine("Наименьшая длинна подпоследовательности из одинаковых элемов " + counter1);
-        }
-        else
-        {
-            counter1Buffer3++;
-            Console.WriteLine("Наименьшая длинна подпоследовательности из одинаковых элемов " + counter1Buffer3);
-        }
-
-
-
-
-        Console.WriteLine("Все ли кратны своему номеру " + statement1);
-
-
-
-
-        if (counter2 > counter2Buffer3)
-        {
-            counter2++;
-            Console.WriteLine("Наибольшая длинна последовательности из разных элементов " + counter2);
-        }
-        else
-        {
-            counter2Buffer3++;
-            Console.WriteLine("Наибольшая длинна последовательности из разных элементов " + counter2Buffer3);
-        }
-
-
-
-
-        Console.WriteLine("Является ли последовательность увыбвающей " + statement2);
+        Console.WriteLine("Наибольший элемент " + max);
+        Console.WriteLine("Количество негативных " + neg);
+        Console.WriteLine("Сумма положительных кратных трем " + summ);
+        Console.WriteLine("Минимальный среди положительных " + smallest);
     }
 }
