@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\obj\Debug\net7.0\primo.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\obj\Debug\net7.0\primo.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\obj\Debug\net7.0\primo.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\obj\Debug\net7.0\primo.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\bin\Debug\net7.0\primo.exe
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\bin\Debug\net7.0\primo.deps.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\bin\Debug\net7.0\primo.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\bin\Debug\net7.0\primo.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\bin\Debug\net7.0\primo.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\obj\Debug\net7.0\primo.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\obj\Debug\net7.0\refint\primo.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\obj\Debug\net7.0\primo.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\obj\Debug\net7.0\primo.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\прима\primo\primo\obj\Debug\net7.0\ref\primo.dll
