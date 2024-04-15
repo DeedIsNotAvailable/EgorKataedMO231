@@ -3,20 +3,10 @@
     static void Main(string[] args)
     {
         String pV, sV;
-        int que = 0;
-
+        int que = 0, frst = 0;
+        Stack<string> checker = new Stack<string>();
+        var tree = new Dictionary<string, int>();
         List<Rebro> rebri = new List<Rebro>();
-        rebri.Add(new Rebro("A", "B"));
-        rebri.Add(new Rebro("B", "C"));
-        rebri.Add(new Rebro("A", "C"));
-        rebri.Add(new Rebro("A", "E"));
-        rebri.Add(new Rebro("C", "E"));
-        rebri.Add(new Rebro("B", "E"));
-        rebri.Add(new Rebro("D", "G"));
-        rebri.Add(new Rebro("D", "H"));
-        rebri.Add(new Rebro("G", "H"));
-        rebri.Add(new Rebro("D", "F"));
-        rebri.Add(new Rebro("F", "H"));
 
         while (true)
         {
@@ -29,9 +19,6 @@
             que = Convert.ToInt32(Console.ReadLine());
             if (que == 2) { break; }
         }
-        int frst = 0;
-        Stack<string> checker = new Stack<string>();
-        var tree = new Dictionary<string, int>();
         foreach (Rebro r in rebri) {
             if (!checker.Contains(r.fV)) {
                 checker.Push(r.fV);
