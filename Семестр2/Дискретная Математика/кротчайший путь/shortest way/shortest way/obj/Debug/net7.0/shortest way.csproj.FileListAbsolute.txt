@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\bin\Debug\net7.0\shortest way.exe
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\bin\Debug\net7.0\shortest way.deps.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\bin\Debug\net7.0\shortest way.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\bin\Debug\net7.0\shortest way.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\bin\Debug\net7.0\shortest way.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\obj\Debug\net7.0\shortest way.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\obj\Debug\net7.0\shortest way.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\obj\Debug\net7.0\shortest way.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\obj\Debug\net7.0\shortest way.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\obj\Debug\net7.0\shortest way.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\obj\Debug\net7.0\refint\shortest way.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\obj\Debug\net7.0\shortest way.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\obj\Debug\net7.0\shortest way.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\кротчайший путь\shortest way\shortest way\obj\Debug\net7.0\ref\shortest way.dll

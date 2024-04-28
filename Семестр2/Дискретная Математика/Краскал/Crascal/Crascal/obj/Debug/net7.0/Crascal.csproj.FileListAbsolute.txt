@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\bin\Debug\net7.0\Crascal.exe
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\bin\Debug\net7.0\Crascal.deps.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\bin\Debug\net7.0\Crascal.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\bin\Debug\net7.0\Crascal.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\bin\Debug\net7.0\Crascal.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\obj\Debug\net7.0\Crascal.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\obj\Debug\net7.0\Crascal.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\obj\Debug\net7.0\Crascal.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\obj\Debug\net7.0\Crascal.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\obj\Debug\net7.0\Crascal.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\obj\Debug\net7.0\refint\Crascal.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\obj\Debug\net7.0\Crascal.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\obj\Debug\net7.0\Crascal.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Краскал\Crascal\Crascal\obj\Debug\net7.0\ref\Crascal.dll
