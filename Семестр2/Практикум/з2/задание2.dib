@@ -1,0 +1,25 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"languageName":"csharp","name":"csharp"}]}}
+
+#!csharp
+
+using System.Text.RegularExpressions;
+
+string pattern = @"([0-1]\d|2[0-3]):([0-5]\d)";
+string[] times = {"09:17", "24:94", "91:16", "16:02", "23:59"};
+
+foreach(string s in times)
+    if(Regex.IsMatch(s, pattern))
+        Console.WriteLine(s);
+
+#!csharp
+
+string pattern = @"([\w-]+)@([\da-z]{1,15})(\.[\da-z]{1,15})+";  
+string[] mails = {"qg9rw_-eg@eqqwe.cas9da.dasda.dcca",
+"qwe3@d",
+"dasd@po.",
+"dasd@po.das"};
+foreach(string s in mails)
+    if(Regex.IsMatch(s, pattern, RegexOptions.IgnoreCase))
+        Console.WriteLine(s);

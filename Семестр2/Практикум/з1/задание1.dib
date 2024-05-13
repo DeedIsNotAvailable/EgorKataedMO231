@@ -11,9 +11,11 @@ var answ = TrapezoidalRule.Solve(f, -3, 3, 0.1);
 class TrapezoidalRule {
     public static double Solve(Func<double, double> f, double a, double b, double dx) {
         double smart = 0;
+        double smartt = 0;
         for(int i = 0; i<((b-a)/dx); i++){
             smart += (f(a+i*dx)+f(a+i*dx + dx))*dx/2;
         }
+        smartt += 
         return smart;
     }
 }

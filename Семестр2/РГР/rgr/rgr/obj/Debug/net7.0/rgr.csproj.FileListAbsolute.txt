@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\obj\Debug\net7.0\rgr.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\obj\Debug\net7.0\rgr.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\obj\Debug\net7.0\rgr.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\obj\Debug\net7.0\rgr.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\bin\Debug\net7.0\rgr.exe
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\bin\Debug\net7.0\rgr.deps.json
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\bin\Debug\net7.0\rgr.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\bin\Debug\net7.0\rgr.dll
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\bin\Debug\net7.0\rgr.pdb
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\obj\Debug\net7.0\rgr.dll
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\obj\Debug\net7.0\refint\rgr.dll
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\obj\Debug\net7.0\rgr.pdb
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\obj\Debug\net7.0\rgr.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\РГР\rgr\rgr\obj\Debug\net7.0\ref\rgr.dll
