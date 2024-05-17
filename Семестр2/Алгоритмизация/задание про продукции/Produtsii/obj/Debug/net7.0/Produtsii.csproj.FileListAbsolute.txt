@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\bin\Debug\net7.0\Produtsii.exe
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\bin\Debug\net7.0\Produtsii.deps.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\bin\Debug\net7.0\Produtsii.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\bin\Debug\net7.0\Produtsii.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\bin\Debug\net7.0\Produtsii.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\obj\Debug\net7.0\Produtsii.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\obj\Debug\net7.0\Produtsii.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\obj\Debug\net7.0\Produtsii.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\obj\Debug\net7.0\Produtsii.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\obj\Debug\net7.0\Produtsii.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\obj\Debug\net7.0\refint\Produtsii.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\obj\Debug\net7.0\Produtsii.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\obj\Debug\net7.0\Produtsii.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про продукции\Produtsii\obj\Debug\net7.0\ref\Produtsii.dll
