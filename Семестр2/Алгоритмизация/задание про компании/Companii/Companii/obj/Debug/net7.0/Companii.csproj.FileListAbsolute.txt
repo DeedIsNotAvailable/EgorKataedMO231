@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\bin\Debug\net7.0\Companii.exe
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\bin\Debug\net7.0\Companii.deps.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\bin\Debug\net7.0\Companii.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\bin\Debug\net7.0\Companii.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\bin\Debug\net7.0\Companii.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\obj\Debug\net7.0\Companii.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\obj\Debug\net7.0\Companii.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\obj\Debug\net7.0\Companii.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\obj\Debug\net7.0\Companii.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\obj\Debug\net7.0\Companii.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\obj\Debug\net7.0\refint\Companii.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\obj\Debug\net7.0\Companii.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\obj\Debug\net7.0\Companii.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про компании\Companii\Companii\obj\Debug\net7.0\ref\Companii.dll
