@@ -1,11 +1,12 @@
 ﻿using System.Text.RegularExpressions;
-
-class Rgr
+class Program
 {
-    public static void Main(String[] args)
+    static void Main(string[] args)
     {
-        var edges = new List<Edge>();
-        var nodes = new List<int>();
+        
+        var edges = new List<Rebro>();
+        var points = new List<int>();
+        var sPoints = new List<Tch>();
         int N, M;
         String? data;
         String[] digits;
@@ -18,7 +19,9 @@ class Rgr
             while (data != null)
             {
                 digits = Regex.Split(data, @"\D+");
-                edges.Add(new Edge(
+                if (!points.Contains(Int32.Parse(digits[0]))) { points.Add(Int32.Parse(digits[0])); }
+                if (!points.Contains(Int32.Parse(digits[1]))) { points.Add(Int32.Parse(digits[1])); }
+                edges.Add(new Rebro(
                     Int32.Parse(digits[0]),
                     Int32.Parse(digits[1]),
                     Int32.Parse(digits[2])
@@ -27,81 +30,88 @@ class Rgr
             }
             reader.Close();
         }
-        catch (IOException e)
-        {
-            throw e;
-        }
+        catch (IOException e) { throw e; }
+        foreach (var p in points)  { sPoints.Add(new Tch(p, 0)); }
 
-        foreach (Edge e in edges)
+        var oPoints = new List<Tch>();
+        int otherPointInRebro;
+        foreach (var p in points) 
         {
-            if (!nodes.Contains(e.x)) { nodes.Add(e.x); }
-            if (!nodes.Contains(e.y)) { nodes.Add(e.y); }
-        }
-
-        int summ = 0;
-        var edgesT = new List<Edge>();
-        var edgesTW = new List<int>();
-        var nodesT = new List<int>();
-        nodesT.Add(nodes[0]);
-
-        for (int i = 1; i < N; i++)
-        {
-            foreach (Edge e in edges)
+            otherPointInRebro = 0;
+            int lPN = p;
+            int lPD = 0;
+            for (int i = 0; i <= points.Count + 10; i++)
             {
-                foreach (int n in nodesT)
+                foreach (Tch a in sPoints)
                 {
-                    if (nodesT.Contains(e.x) & !nodesT.Contains(e.y) || nodesT.Contains(e.y) & !nodesT.Contains(e.x))
+                    if (a.name.Equals(lPN))
                     {
-                        edgesT.Add(e);
-                        edgesTW.Add(e.weight);
+                        sPoints.Remove(a);
+                        //if (i == 0) break;
+                        if(a.distance > 100) Console.WriteLine($"От пункта {p} до {a.name} потеря информации: {-1}");
+                        else Console.WriteLine($"От пункта {p} до {a.name} потеря информации: {a.distance}");
+                        break;
+                    }
+                }
+                if (i == points.Count + 10) break;
+                foreach (Rebro r in edges)
+                {
+                    if (r.tch.Contains(lPN))
+                    {
+                        otherPointInRebro = r.getTheOtherPoint(lPN);
+                        foreach (Tch oP in sPoints)
+                        {
+                            if (oP.name.Equals(otherPointInRebro))
+                            {
+                                if (oP.distance > lPD + r.weight || oP.distance == 0) oP.distance = lPD + r.weight;
+                                oPoints.Add(oP);
+                            }
+                        }
+                    }
+                }
+                if (oPoints.Any()) lPD = oPoints.Min(Tch => Tch.distance);
+                foreach (Tch a in oPoints)
+                {
+                    if (a.distance == lPD)
+                    {
+                        lPN = a.name;
+                        oPoints.Remove(a);
+                        break;
                     }
                 }
             }
-            foreach (Edge e in edgesT)
-            {
-                if (e.weight == edgesTW.Min())
-                {
-                    if (nodesT.Contains(e.x))
-                    {
-                        nodesT.Add(e.y);
-                    }
-                    else
-                    {
-                        nodesT.Add(e.x);
-                    }
-                    edges.Remove(e);
-                    summ += e.weight;
-                    break;
-                }
-            }
-            edgesT.Clear();
-            edgesTW.Clear();
+            Console.WriteLine("");
+            sPoints.Clear();
+            foreach (var d in points) { sPoints.Add(new Tch(d, 0)); }
+            oPoints.Clear();
         }
-        if (summ >= 100)
-        {
-            Console.WriteLine(-1);
-        }
-        else
-        {
-            Console.WriteLine(summ);
-            foreach (int n in nodes)
-            {
-                Console.Write($"{n} ");
-            }
-        }
+    }
+}
+public class Rebro
+{
+    public List<int> tch = new List<int>();
+    public int weight;
+    public Rebro(int fV, int sV, int weight)
+    {
+        tch.Add(fV);
+        tch.Add(sV);
+        this.weight = weight;
+    }
 
+    public int getTheOtherPoint(int point)
+    {
+        foreach (int g in tch) { if (!g.Equals(point)) { return g; } }
+        return -1;
     }
 }
 
-class Edge
+public class Tch
 {
-    public int x;
-    public int y;
-    public int weight;
-    public Edge(int x, int y, int weight)
+    public int name;
+    public int distance;
+    public Tch(int name, int distance)
     {
-        this.x = x;
-        this.y = y;
-        this.weight = weight;
+        this.name = name;
+        this.distance = distance;
     }
 }
