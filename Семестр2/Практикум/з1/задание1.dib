@@ -15,7 +15,7 @@ class TrapezoidalRule {
         for(int i = 0; i<((b-a)/dx); i++){
             smart += (f(a+i*dx)+f(a+i*dx + dx))*dx/2;
         }
-        smartt += 
+        
         return smart;
     }
 }
