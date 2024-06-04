@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\bin\Debug\net7.0\fordfalk.exe
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\bin\Debug\net7.0\fordfalk.deps.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\bin\Debug\net7.0\fordfalk.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\bin\Debug\net7.0\fordfalk.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\bin\Debug\net7.0\fordfalk.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\obj\Debug\net7.0\fordfalk.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\obj\Debug\net7.0\fordfalk.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\obj\Debug\net7.0\fordfalk.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\obj\Debug\net7.0\fordfalk.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\obj\Debug\net7.0\fordfalk.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\obj\Debug\net7.0\refint\fordfalk.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\obj\Debug\net7.0\fordfalk.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\obj\Debug\net7.0\fordfalk.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Форд Фалкерсон\fordfalk\obj\Debug\net7.0\ref\fordfalk.dll

@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\bin\Debug\net7.0\rofl.exe
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\bin\Debug\net7.0\rofl.deps.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\bin\Debug\net7.0\rofl.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\bin\Debug\net7.0\rofl.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\bin\Debug\net7.0\rofl.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\obj\Debug\net7.0\rofl.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\obj\Debug\net7.0\rofl.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\obj\Debug\net7.0\rofl.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\obj\Debug\net7.0\rofl.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\obj\Debug\net7.0\rofl.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\obj\Debug\net7.0\refint\rofl.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\obj\Debug\net7.0\rofl.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\obj\Debug\net7.0\rofl.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Роберт Флорес\rofl\obj\Debug\net7.0\ref\rofl.dll
