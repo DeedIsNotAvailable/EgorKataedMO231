@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\bin\Debug\net7.0\floyd.exe
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\bin\Debug\net7.0\floyd.deps.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\bin\Debug\net7.0\floyd.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\bin\Debug\net7.0\floyd.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\bin\Debug\net7.0\floyd.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\obj\Debug\net7.0\floyd.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\obj\Debug\net7.0\floyd.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\obj\Debug\net7.0\floyd.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\obj\Debug\net7.0\floyd.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\obj\Debug\net7.0\floyd.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\obj\Debug\net7.0\refint\floyd.dll
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\obj\Debug\net7.0\floyd.pdb
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\obj\Debug\net7.0\floyd.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Дискретная Математика\Флойд\floyd\obj\Debug\net7.0\ref\floyd.dll
