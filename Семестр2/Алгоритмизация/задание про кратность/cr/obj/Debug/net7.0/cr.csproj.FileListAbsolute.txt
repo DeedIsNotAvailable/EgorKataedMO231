@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\bin\Debug\net7.0\cr.exe
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\bin\Debug\net7.0\cr.deps.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\bin\Debug\net7.0\cr.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\bin\Debug\net7.0\cr.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\bin\Debug\net7.0\cr.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\obj\Debug\net7.0\cr.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\obj\Debug\net7.0\cr.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\obj\Debug\net7.0\cr.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\obj\Debug\net7.0\cr.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\obj\Debug\net7.0\cr.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\obj\Debug\net7.0\refint\cr.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\obj\Debug\net7.0\cr.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\obj\Debug\net7.0\cr.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про кратность\cr\obj\Debug\net7.0\ref\cr.dll

@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\bin\Debug\net7.0\chetn.exe
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\bin\Debug\net7.0\chetn.deps.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\bin\Debug\net7.0\chetn.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\bin\Debug\net7.0\chetn.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\bin\Debug\net7.0\chetn.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\obj\Debug\net7.0\chetn.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\obj\Debug\net7.0\chetn.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\obj\Debug\net7.0\chetn.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\obj\Debug\net7.0\chetn.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\obj\Debug\net7.0\chetn.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\obj\Debug\net7.0\refint\chetn.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\obj\Debug\net7.0\chetn.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\obj\Debug\net7.0\chetn.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про четные\chetn\obj\Debug\net7.0\ref\chetn.dll

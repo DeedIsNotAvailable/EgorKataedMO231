@@ -1,0 +1,14 @@
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\bin\Debug\net7.0\arreyslists.exe
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\bin\Debug\net7.0\arreyslists.deps.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\bin\Debug\net7.0\arreyslists.runtimeconfig.json
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\bin\Debug\net7.0\arreyslists.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\bin\Debug\net7.0\arreyslists.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\obj\Debug\net7.0\arreyslists.GeneratedMSBuildEditorConfig.editorconfig
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\obj\Debug\net7.0\arreyslists.AssemblyInfoInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\obj\Debug\net7.0\arreyslists.AssemblyInfo.cs
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\obj\Debug\net7.0\arreyslists.csproj.CoreCompileInputs.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\obj\Debug\net7.0\arreyslists.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\obj\Debug\net7.0\refint\arreyslists.dll
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\obj\Debug\net7.0\arreyslists.pdb
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\obj\Debug\net7.0\arreyslists.genruntimeconfig.cache
+F:\EgorKataevMO231\Семестр2\Алгоритмизация\задание про аррей и листы\arreyslists\obj\Debug\net7.0\ref\arreyslists.dll
