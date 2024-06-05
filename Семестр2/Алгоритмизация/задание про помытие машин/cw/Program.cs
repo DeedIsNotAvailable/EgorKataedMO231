@@ -14,7 +14,7 @@
         {
             foreach (var car in Garage.cars)
             {
-                Garage.carwash(car);
+                Moika.pomit(car);
             }
         }
     }
@@ -34,8 +34,13 @@ class Garage
     {
         cars.Add(car);
     }
-    static public void carwash(car car)
-    {
-        Console.WriteLine($"Автомобиль {car.name} отмыт");
-    }
+    
+}
+
+class Moika
+{
+    static public void pomit(car car)
+        {
+            Console.WriteLine($"Авто с именем {car.name} помыто");
+        }
 }
